@@ -1,4 +1,6 @@
 # Image-compression-by-DCT
+![r=10](https://github.com/yaranasserr/Image-compression-by-DCT/assets/72654303/353c22aa-2555-4d82-a0f7-532162b0e3ec)
+
 In this project, I implemented image compression using the Discrete Cosine Transform (DCT) technique in MATLAB. The DCT is a widely used method for reducing the size of images while preserving important visual information.
 
 First, I loaded the image into MATLAB and converted it to grayscale for simplicity. Then, I divided the image into small blocks and applied the DCT to each block individually.
